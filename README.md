@@ -25,4 +25,3 @@ A responsive front-end clone of Amazon’s UI and core flows, built with HTML, C
 - **CSS3**
 - **JavaScript (ES6 modules)**
 
-## 🗂️ Project Structure
