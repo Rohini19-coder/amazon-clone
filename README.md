@@ -13,6 +13,3 @@ Created as part of a 22-hour JavaScript course I completed during the holidays t
 - JavaScript fundamentals and ES6+
 - DOM manipulation & event handling
 - Git & GitHub
-
-## Demo
-[Coming Soon or add link here]
